@@ -1,5 +1,5 @@
 {
-  "name": "aegis",
+  "name": "@kcram-solutions/aegis",
   "version": "1.0.0",
   "description": "Library for connect the Kcram Solutions Cors jumper service",
   "main": "index.js",
@@ -20,6 +20,7 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
   },
+  "files": ["dist", ".npmigonre", "README.md", "LICENSE"],
   "repository": {
     "type": "git",
     "url": "https://github.com/KcramSolutions/aegis"
